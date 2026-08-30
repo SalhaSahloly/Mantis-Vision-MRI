@@ -1,4 +1,4 @@
-🦐 Bio-inspired MRI Image Analysis
+🦐 Bio-inspired MRI Image Analysis(patent applied)
 
 A Mantis Shrimp Vision-Inspired System for MRI Image Analysis
 
